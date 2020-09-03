@@ -84,6 +84,7 @@ Edit Mirror/Hybrid Disk resource parameters.
 		- Goto [Mirror] tab
 		- Set the following parameters
 			- [History Files Store Directory] : Set directory path for history file
+				- **Note** We recommend to specify other than system drive (such as C: for Windows or /dev/sdaX for Linux) because the system may not work properly if system drive gets full.
 			- [Limit size of History File] : Set maximum size of history file
 		- Click [OK]
 	1. Number of Queues **(For Linux asynchronous mode only)**
