@@ -52,7 +52,7 @@ Extend Heartbeat timeout.
 	- Goto [Timeout] tab
 	- [Heartbeat Timeout] : Set longer heartbeat timeout than default value.  
 		**Example**
-		- Windwos) 90 sec
+		- Windows) 90 sec
 		- Linux) 120 sec
 
 1. Mirror/Hybrid Disk Resource Parameters  
