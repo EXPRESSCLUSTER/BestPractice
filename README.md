@@ -1,5 +1,5 @@
 # BestPractice
-The documentation provided in this repository describes recommended parameters for a disaster recovery (DR) configuration. Two guides are included:
+The documentation provided in this repository describes recommended parameters for a disaster recovery (DR) configuration in an EXPRESSCLUSTER cluster. Two guides are included:
     
 [EXPRESSCLUSTER X 4.1 best practice guide](DRBestPractice_X41.md) for Windows and Linux    
 [EXPRESSCLUSTER X 5.3 (or later) best practice guide](DRBestPractice_X53.md) for Windows and Linux (released April 8, 2025)    
